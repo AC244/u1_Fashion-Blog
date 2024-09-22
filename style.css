@@ -1,0 +1,108 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    
+}
+nav, a {
+    color: rgb(218, 217, 217);
+    font-family: Times New Roman , Times, serif;
+    font-size: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -30px;
+    
+}
+
+h20 {
+    color: rgb(237, 14, 14);
+    font-family: Times New Roman , Times, serif;
+    font-size: 1;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40px;
+}
+
+header h1 {
+    color: #c80000;
+    display: flex;
+    margin-left: 40px;
+    
+}
+header h15 {
+    color:#333;
+    font-size: 2.5em;
+    margin-bottom: 100px;
+    margin-left: 40px;
+}
+
+h1 {
+    margin: 5;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 4em;
+    
+}
+
+ h2 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 25px;
+    margin-top: -30px;
+    margin-left: 40px;
+}
+
+
+
+img {
+    max-width: 92%;
+    height: auto;
+    margin-left: 40px;
+}
+
+h4 {
+    text-align: left;
+    color: rgb(225, 222, 222);
+    font-size: 1.9em;
+    margin-left: 40px;
+}
+
+header h8 {
+    color:#333;
+    font-size: 2.5em;
+    margin-left: 40px;
+}
+
+h6 {
+    color: #c80000;
+    text-align: right;
+    font-size: 1em;
+    margin-right: 40px;
+}
+
+h10 {
+    color: #c80000;
+    text-align: right;
+    font-size: 1em
+}
+
+h11 {
+    margin-left: 40px;
+    color: rgb(225, 222, 222);
+}
+
+h9, p {
+    margin-left: 40px;
+    font-size: large;
+}
+
+header h9 p::first-letter {
+    font-size: 5em;
+    color: rgb(225, 222, 222);
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
